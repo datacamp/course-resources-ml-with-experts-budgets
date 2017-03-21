@@ -3,6 +3,8 @@ Further student resources for DrivenData's 'Machine Learning with the Experts: S
 
 To see the model, take a look at the [notebook that builds the winning model](notebooks/1.0-full-model.ipynb).
 
+To get the data, sign up for [the competition](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/) and use the data download link!
+
 To run the notebook, first install the dependencies with:
 
     pip install -r requirements.txt
